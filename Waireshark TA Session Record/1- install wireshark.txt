@@ -1,0 +1,7 @@
+1- install wireshark
+2- open wire shark - ipconfig/ifconfig - select interface in wireshark - sart capturing
+3- filtering packets by protocol
+4- add colorizing rule
+5- watch username & password in http request: http://testphp.vulnweb.com/login.php
+6- telephone call over internet using VOIP server (voice over ip). VOIP server uses SIP protocol(Session Initiation Protocol).
+	Then we can decode call using wireshark.
